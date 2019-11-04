@@ -1,4 +1,4 @@
-//#3
+package pierwszyZjazd;//#3
 //Napisz program dla praliki, który wyświetli poniższe menu:
 //1. pranie wstepne
 //2. pranie

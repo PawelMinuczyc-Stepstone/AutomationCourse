@@ -1,3 +1,5 @@
+package pierwszyZjazd;
+
 import java.io.IOException;
 
 //Napisz program, który pobierze od użytkownika 3 zmienne -

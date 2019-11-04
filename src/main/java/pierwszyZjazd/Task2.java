@@ -1,3 +1,5 @@
+package pierwszyZjazd;
+
 import java.io.IOException;
 
 public class Task2 extends BufferReaderInitializer {

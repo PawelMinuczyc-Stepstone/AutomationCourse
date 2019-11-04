@@ -1,3 +1,5 @@
+package pierwszyZjazd;
+
 import java.io.IOException;
 import java.util.stream.IntStream;
 

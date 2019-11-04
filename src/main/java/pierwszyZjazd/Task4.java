@@ -1,3 +1,5 @@
+package pierwszyZjazd;
+
 public class Task4 {
 
   //#4

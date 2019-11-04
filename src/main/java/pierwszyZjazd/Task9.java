@@ -1,4 +1,4 @@
-//    Napisz program, który narysuje polowke choinki z tyloma rzedami, ile wprowadzi uzytkownik.
+package pierwszyZjazd;//    Napisz program, który narysuje polowke choinki z tyloma rzedami, ile wprowadzi uzytkownik.
 
 //    Przerób zadanie #5 tak, aby można było rysować choinkę wielokrotnie bez ponownego
 //    uruchamiania programu oraz po wprowadzeniu liczby ujemnej, choinka rysowała się do góry nogami.
