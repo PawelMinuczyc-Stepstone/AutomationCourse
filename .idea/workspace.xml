@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a27d208-96fd-4d92-8dc6-2c3d492c78c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BufferReaderInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task9.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +50,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,7 +80,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drugiZjazd.psiaGra.Main" />
+      <module name="learningJavaForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drugiZjazd.psiaGra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pierwszyZjazd.Runner" />
       <module name="learningJavaForCourse" />
@@ -69,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
@@ -83,8 +118,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572868302939</updated>
-      <workItem from="1572868308658" duration="1089000" />
+      <workItem from="1572868308658" duration="4256000" />
     </task>
+    <task id="LOCAL-00001" summary="changing directory">
+      <created>1572869485254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572869485254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changing directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing directory" />
   </component>
 </project>
