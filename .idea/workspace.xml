@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a27d208-96fd-4d92-8dc6-2c3d492c78c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Main.java" afterDir="false" />
+    <list default="true" id="5a27d208-96fd-4d92-8dc6-2c3d492c78c9" name="Default Changelist" comment="Adding 2 zjazd tasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/imionaAlfabetycznie/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/imionaAlfabetycznie/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BufferReaderInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/drugiZjazd/Main.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,13 +69,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Runner (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="drugiZjazd.psiaGra.Main" />
       <module name="learningJavaForCourse" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="drugiZjazd.psiaGra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drugiZjazd.imionaAlfabetycznie.Runner" />
+      <module name="learningJavaForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drugiZjazd.imionaAlfabetycznie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Runner" />
       </list>
@@ -118,7 +121,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572868302939</updated>
-      <workItem from="1572868308658" duration="4256000" />
+      <workItem from="1572868308658" duration="8978000" />
+      <workItem from="1573743299750" duration="2668000" />
     </task>
     <task id="LOCAL-00001" summary="changing directory">
       <created>1572869485254</created>
@@ -127,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572869485254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding 2 zjazd tasks">
+      <created>1572893340865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572893340865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +149,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -146,6 +159,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing directory" />
+    <MESSAGE value="Adding 2 zjazd tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 2 zjazd tasks" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learningJavaForCourse$Runner__1_.ic" NAME="Runner (1) Coverage Results" MODIFIED="1573236866257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>drugiZjazd.imionaAlfabetycznie.*</FILTER>
+    </SUITE>
   </component>
 </project>
