@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a27d208-96fd-4d92-8dc6-2c3d492c78c9" name="Default Changelist" comment="Adding 2 zjazd tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/imionaAlfabetycznie/Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/imionaAlfabetycznie/Runner.java" afterDir="false" />
+    <list default="true" id="5a27d208-96fd-4d92-8dc6-2c3d492c78c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/PageObjects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/PageObjects/OnetMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/testClasses/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/testClasses/OnetMainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/utils/extentReports/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/utils/extentReports/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/utils/listeners/AnnotationTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/utils/listeners/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/onet/utils/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/trzeciZjazd/lifesciencesjobs/Selenium2Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drugiZjazd/psiaGra/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drugiZjazd/Main.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +47,7 @@
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/drugiZjazd/onet" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,13 +56,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/drugiZjazd/onet" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
@@ -69,13 +79,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drugiZjazd.psiaGra.Main" />
+      <option name="MAIN_CLASS_NAME" value="drugiZjazd.pizgającePsy.Main" />
       <module name="learningJavaForCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="drugiZjazd.psiaGra.*" />
+          <option name="PATTERN" value="drugiZjazd.pizgającePsy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drugiZjazd.imionaAlfabetycznie.Runner" />
+    <configuration name="Selenium2Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trzeciZjazd.lifesciencesjobs.Selenium2Example" />
       <module name="learningJavaForCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="drugiZjazd.imionaAlfabetycznie.*" />
+          <option name="PATTERN" value="trzeciZjazd.lifesciencesjobs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,18 +106,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pierwszyZjazd.Runner" />
+    <configuration name="OnetMainPageTest.showWordsThatStartsWithj (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="learningJavaForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drugiZjazd.onet.testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="drugiZjazd.onet.testClasses" />
+      <option name="MAIN_CLASS_NAME" value="drugiZjazd.onet.testClasses.OnetMainPageTest" />
+      <option name="METHOD_NAME" value="showWordsThatStartsWithj" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnetMainPageTest.showWordsThatStartsWithj (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="learningJavaForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drugiZjazd.onet.testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="drugiZjazd.onet.testClasses" />
+      <option name="MAIN_CLASS_NAME" value="drugiZjazd.onet.testClasses.OnetMainPageTest" />
+      <option name="METHOD_NAME" value="showWordsThatStartsWithj" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnetMainPageTest.showWordsThatStartsWithj" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="learningJavaForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drugiZjazd.onet.testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="drugiZjazd.onet.testClasses" />
+      <option name="MAIN_CLASS_NAME" value="drugiZjazd.onet.testClasses.OnetMainPageTest" />
+      <option name="METHOD_NAME" value="showWordsThatStartsWithj" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Runner (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Runner" />
+        <item itemvalue="TestNG.OnetMainPageTest.showWordsThatStartsWithj (4)" />
+        <item itemvalue="Application.Selenium2Example" />
+        <item itemvalue="TestNG.OnetMainPageTest.showWordsThatStartsWithj" />
+        <item itemvalue="TestNG.OnetMainPageTest.showWordsThatStartsWithj (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +181,15 @@
       <option name="presentableId" value="Default" />
       <updated>1572868302939</updated>
       <workItem from="1572868308658" duration="8978000" />
-      <workItem from="1573743299750" duration="2668000" />
+      <workItem from="1573743299750" duration="6440000" />
+      <workItem from="1573825286919" duration="1504000" />
+      <workItem from="1573839020723" duration="9549000" />
+      <workItem from="1573983602648" duration="309000" />
+      <workItem from="1573984260585" duration="366000" />
+      <workItem from="1573985856214" duration="2583000" />
+      <workItem from="1574794296115" duration="4706000" />
+      <workItem from="1574856022307" duration="10622000" />
+      <workItem from="1575059775135" duration="2735000" />
     </task>
     <task id="LOCAL-00001" summary="changing directory">
       <created>1572869485254</created>
@@ -138,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572893340865</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding 2 zjazd tasks">
+      <created>1573759313685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573759313685</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +235,17 @@
     <MESSAGE value="changing directory" />
     <MESSAGE value="Adding 2 zjazd tasks" />
     <option name="LAST_COMMIT_MESSAGE" value="Adding 2 zjazd tasks" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drugiZjazd/onet/PageObjects/OnetMainPage.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learningJavaForCourse$Runner__1_.ic" NAME="Runner (1) Coverage Results" MODIFIED="1573236866257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
